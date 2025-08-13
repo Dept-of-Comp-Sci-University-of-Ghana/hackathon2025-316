@@ -1,0 +1,7 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+tqdm>=4.66
+click>=8.1
+pytest>=7.3
+joblib>=1.2
