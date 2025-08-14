@@ -5,7 +5,9 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "dcit316-hackathon-starter"
 version = "0.0.1"
+description = "Starter for DCIT316 mid-sem hackathon"
 requires-python = ">=3.10"
 
 [tool.setuptools]
+# Tell setuptools to package the `project` package (and any subpackages)
 packages = ["project"]
